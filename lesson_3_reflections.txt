@@ -9,3 +9,5 @@ Branches are used when we want to prevent from making any changes to the master 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without using git or github we can collaborte onsite but it would be harder to keep track of all the versions and to simultaneously contribute to it. But if you are working alone then it will be a lot easier without git and github.
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When we wish to make some experimental changes that we are not sure about incorporating into master then we make use of a branch. While directly making changes on master it is very easy whereas when we make change on a branch we have more flexibility.
